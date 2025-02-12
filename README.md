@@ -21,7 +21,9 @@ Network Scanner is a powerful tool for network scanning and mapping. It performs
 ✅ Anomaly Detection & Alerts
 
 ✅ Detailed Reporting (HTML, CSV, and Graphical Reports)
+
 🚀 How It Works
+
 1️⃣ Main Menu
 
 When you run the program, it presents an interactive menu:
@@ -38,6 +40,7 @@ When you run the program, it presents an interactive menu:
 Enter your choice (1-8):
 
 You can select a scanning type based on your needs.
+
 2️⃣ Scanning Methods
 🔹 TCP/UDP Port Scanning
 
