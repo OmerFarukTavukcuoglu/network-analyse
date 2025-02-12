@@ -2,6 +2,7 @@ Network Scanner
 
 Advanced Professional Network Scanning and Mapping System
 📌 Overview
+![netro](https://github.com/user-attachments/assets/5197e6ee-b36d-42b3-b2df-df94cbcdc0fa)
 
 Network Scanner is a powerful tool for network scanning and mapping. It performs TCP/UDP port scanning, protocol-based scanning, SSL/TLS certificate inspection, network discovery, and OS detection. Additionally, it includes anomaly detection and generates detailed HTML/CSV reports, making it an essential tool for network security analysis.
 🎯 Features
