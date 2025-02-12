@@ -7,12 +7,19 @@ Network Scanner is a powerful tool for network scanning and mapping. It performs
 🎯 Features
 
 ✅ TCP/UDP Port Scanning (Synchronous & Asynchronous)
+
 ✅ Protocol-Based Scanning (HTTP, FTP, SMTP, SSH)
+
 ✅ SSL/TLS Certificate Inspection
+
 ✅ CIDR-Based Network Discovery (Ping Sweep)
+
 ✅ Network Mapping (MAC Address Extraction from ARP Table)
+
 ✅ OS Detection (Based on TTL Values)
+
 ✅ Anomaly Detection & Alerts
+
 ✅ Detailed Reporting (HTML, CSV, and Graphical Reports)
 🚀 How It Works
 1️⃣ Main Menu
